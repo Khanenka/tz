@@ -1,0 +1,17 @@
+a)select paydate,sum(value),name from expenses,receivers rs where receiver=rs.num group by name;
+b)) select max(value),paydate from expenses where paydate = (
+select 
+	paydate
+    from expenses
+    group by paydate
+    order by sum(value) desc
+    limit 0, 1
+)
+c)select sum(value),paydate from expenses where paydate = (
+select 
+	paydate
+    from expenses
+    group by value
+    order by max(value) desc
+    limit 0, 1
+);
