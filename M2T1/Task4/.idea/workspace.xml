@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcec5c37-62c0-42c0-9573-64d4c28d58f5" name="Default Changelist" comment="">
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-815728422-512972487-2464994926-1001/$IENFLMU.iml" afterDir="false" />
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-815728422-512972487-2464994926-1001/$RDWAI01.idea/Theme_4.iml" afterDir="false" />
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-815728422-512972487-2464994926-1001/$RENFLMU.iml" afterDir="false" />
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-815728422-512972487-2464994926-1001/$RTOMAZ6/Task4/Task4.iml" afterDir="false" />
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-815728422-512972487-2464994926-1001/$RTOMAZ6/Task5/Task5.iml" afterDir="false" />
+      <change afterPath="D:/Mod2_Them1/Task4.iml" afterDir="false" />
+      <change afterPath="D:/Mod2_Them1/Task4/.idea/Task4.iml" afterDir="false" />
+      <change afterPath="D:/Mod2_Them1/Task4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/work/hello-maven/.idea/hello-maven.iml" afterDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/.idea/workspace.xml" beforeDir="false" afterPath="D:/Mod2_Them1/Task4/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\M2Them1\Task4\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mYhvVYcVvtiRQjS1Q8NJihPNB1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcec5c37-62c0-42c0-9573-64d4c28d58f5" name="Default Changelist" comment="" />
+      <created>1609676662379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609676662379</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="SettingsEditor" timestamp="1609676769167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609676769167" />
+  </component>
+</project>
