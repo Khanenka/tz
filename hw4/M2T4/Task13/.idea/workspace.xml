@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="10167ebe-3f80-4305-a082-3ecf2982e36f" name="Default Changelist" comment="">
       <change afterPath="D:/jdz_hw/M2T2/Task8/src/main/webapp/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="D:/M2Them1/Task1.txt" beforeDir="false" />
       <change beforePath="D:/M2Them1/Task2.txt" beforeDir="false" />
       <change beforePath="D:/M2Them1/Task3.txt" beforeDir="false" />
@@ -104,7 +107,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectId" id="1mrzQ8T9h24prhykKClFJ1aJP6W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -170,6 +173,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610307195742" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1610366468125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610366468125" />
     <state x="342" y="215" key="new project wizard" timestamp="1610304151314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
