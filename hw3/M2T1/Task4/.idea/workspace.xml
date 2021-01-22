@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29d4c9c1-1374-4e70-9538-eb7593f5899f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Task5/.idea/Task5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/jdz_hw/M2T2/Task8/src/main/webapp/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task5/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task5/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="D:/M2Them1/Task1.txt" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task2.txt" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task3.txt" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task4/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task4/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task4/Task4.iml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task4/pom.xml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task4/src/main/java/Task4.java" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task5/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task5/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task5/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task5/Task5.iml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task5/pom.xml" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task5/src/main/java/Task5.java" beforeDir="false" />
+      <change beforePath="D:/M2Them1/Task6.txt" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/.idea/.name" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task1.txt" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task2.txt" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task3.txt" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4.iml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/.idea/.name" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/.idea/Task4.iml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/Task4.iml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/pom.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/src/main/java/Task4.java" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/target/Task4-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/target/Task4-1.0-SNAPSHOT/WEB-INF/classes/argsIntoDataBase.class" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/target/Task4-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.22.jar" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/target/Task4-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-3.11.4.jar" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/target/classes/META-INF/Task4.kotlin_module" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/target/classes/Task4.class" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/target/classes/mysql-connector-java-8.0.22.jar" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task4/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task5/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task5/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task5/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task5/Task5.iml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task5/pom.xml" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task5/src/main/java/Task5.java" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task5/target/classes/Task5.class" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/Task6.txt" beforeDir="false" />
+      <change beforePath="D:/Mod2_Them1/pom.xml" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module2_Theme1/Taask1/pom.xml" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module2_Theme1/Taask1/src/main/java/ExpensesServlet.java" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module2_Theme1/Taask1/src/main/java/Task1.java" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module2_Theme1/Task1/pom.xml" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module2_Theme1/Task1/src/main/java/it/academy/App.java" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module2_Theme1/pom.xml" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module_2_Theme1/Task1.txt" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module_2_Theme1/Task2.txt" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module_2_Theme1/Task3.txt" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module_2_Theme1/Task4/pom.xml" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module_2_Theme1/Task4/src/main/java/Task4.java" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module_2_Theme1/Task5/pom.xml" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module_2_Theme1/Task5/src/main/java/Task5.java" beforeDir="false" />
+      <change beforePath="D:/jdz_hw/Module_2_Theme1/Task6.txt" beforeDir="false" />
+      <change beforePath="D:/work/tomcat-quickstart/tomcat-quickstart.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1mT4wBXo7vzP2QO1QetXoH8VkFC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="D:/M2T3/Task10" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\jdz_hw\ModuleThemee1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task4">
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4" />
+      <module name="Task4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="argsIntoDataBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="argsIntoDataBase" />
+      <module name="Task4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql-connector-java-8.0.22.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/main/java/mysql-connector-java-8.0.22.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.argsIntoDataBase" />
+        <item itemvalue="JAR Application.mysql-connector-java-8.0.22.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29d4c9c1-1374-4e70-9538-eb7593f5899f" name="Default Changelist" comment="" />
+      <created>1609504483007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609504483007</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" width="816" height="729" key="#Intentions" timestamp="1609512272012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="816" height="729" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1609512272012" />
+    <state x="580" y="150" key="#Project_Structure" timestamp="1609504581580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="150" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1609504581580" />
+    <state x="490" y="175" key="DBNavigator.ProjectSettingsDialog" timestamp="1609513626053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="DBNavigator.ProjectSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609513626053" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1610355441358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610355441358" />
+    <state width="1877" height="346" key="GridCell.Tab.0.bottom" timestamp="1609620977847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609620977847" />
+    <state width="1877" height="346" key="GridCell.Tab.0.center" timestamp="1609620977847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609620977847" />
+    <state width="1877" height="346" key="GridCell.Tab.0.left" timestamp="1609620977847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609620977847" />
+    <state width="1877" height="346" key="GridCell.Tab.0.right" timestamp="1609620977847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609620977847" />
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom" timestamp="1609620977847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609620977847" />
+    <state width="1877" height="346" key="GridCell.Tab.1.center" timestamp="1609620977847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609620977847" />
+    <state width="1877" height="346" key="GridCell.Tab.1.left" timestamp="1609620977847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609620977847" />
+    <state width="1877" height="346" key="GridCell.Tab.1.right" timestamp="1609620977847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609620977847" />
+    <state x="454" y="0" key="SettingsEditor" timestamp="1609504710431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="454" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609504710431" />
+    <state x="895" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1610355387985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="895" y="220" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610355387985" />
+    <state x="342" y="215" key="new project wizard" timestamp="1609666100765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1609666100765" />
+    <state x="925" y="212" key="run.anything.popup" timestamp="1609509483664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="925" y="212" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609509483664" />
+    <state x="680" y="167" width="672" height="678" key="search.everywhere.popup" timestamp="1609508081792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="680" y="167" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609508081792" />
+  </component>
+</project>

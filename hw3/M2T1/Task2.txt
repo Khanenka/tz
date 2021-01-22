@@ -1,0 +1,46 @@
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.math.BigDecimal;
+import java.sql.*;
+
+@WebServlet(name = "ExpensesServlet", urlPatterns = "/expenses")
+public class ExpensesServlet extends HttpServlet {
+    @Override
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp)  {
+        try {
+            Class.forName("com.mysql.cj.jdbc.Driver");
+
+            final Connection connection = DriverManager.getConnection(
+                    "jdbc:mysql://localhost:3306/expenses?serverTimezone=UTC",
+                    "root",
+                    "root"
+            );
+            final Statement statement = connection.createStatement();
+            
+            final ResultSet resultSet = statement.executeQuery("select * from expenses,receivers where value >10000"
+                   );
+            final PrintWriter writer = resp.getWriter();
+            while (resultSet.next()) {
+                int num = resultSet.getInt(1);
+Date paydate=resultSet.getDate(2);
+                int receiver=resultSet.getInt(3);
+                BigDecimal value = resultSet.getBigDecimal(4);
+
+                System.out.println("num=" + num + " paydate="  + receiver + "value=" + value);
+                writer.println("num=" + num + " paydate="  + receiver + " value=" + value);
+            }
+
+            resultSet.close();
+            statement.close();
+            connection.close();
+
+        } catch (ClassNotFoundException | SQLException | IOException e) {
+            e.printStackTrace();
+        }
+    }
+}
