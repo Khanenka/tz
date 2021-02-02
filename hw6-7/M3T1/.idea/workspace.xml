@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="655858db-7d94-48b9-8758-5a89876e42c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../M2T1/Task1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2T1/Task2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2T1/Task3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2T1/Task4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2T1/Task4/src/main/java/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2T1/Task5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2T1/Task5/src/main/java/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2T1/Task6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2Them1/Task1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2Them1/Task2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2Them1/Task3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2Them1/Task4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2Them1/Task4/src/main/java/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2Them1/Task5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2Them1/Task5/src/main/java/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M2Them1/Task6.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nPsTpn4UOeunJ3aaOqZUAEHzfU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.it.academy.pojos" />
+      <recent name="by.it.academy.loader" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\jdz_hw\M3T1\src\main\resources" />
+      <recent name="D:\jdz_hw\M3T1\src\test" />
+      <recent name="D:\jdz_hw\M3T1\src\main\resources\META-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PersonLoader">
+    <configuration name="PersonLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.it.academy.loader.PersonLoader" />
+      <module name="M3T1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.it.academy.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in M3T1" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="M3T1" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M3T1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.it.academy.pojos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.it.academy.pojos" />
+      <option name="MAIN_CLASS_NAME" value="by.it.academy.pojos.PersonTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M3T1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.it.academy.pojos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.it.academy.pojos" />
+      <option name="MAIN_CLASS_NAME" value="by.it.academy.pojos.PersonTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M3T1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.it.academy.pojos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.it.academy.pojos" />
+      <option name="MAIN_CLASS_NAME" value="by.it.academy.pojos.PersonTest" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M3T1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.it.academy.pojos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.it.academy.pojos" />
+      <option name="MAIN_CLASS_NAME" value="by.it.academy.pojos.PersonTest" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="by.it.academy.loader in M3T1" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="M3T1" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.it.academy.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.it.academy.loader" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="by.it.academy.pojos in M3T1" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="M3T1" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.it.academy.pojos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.it.academy.pojos" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PersonLoader" />
+        <item itemvalue="JUnit.PersonTest.delete" />
+        <item itemvalue="JUnit.PersonTest.save" />
+        <item itemvalue="JUnit.PersonTest.search" />
+        <item itemvalue="JUnit.PersonTest.create" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="655858db-7d94-48b9-8758-5a89876e42c3" name="Default Changelist" comment="" />
+      <created>1611303070054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611303070054</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="151" key="#All_in_M3T1" timestamp="1611501222186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="151" key="#All_in_M3T1/0.0.1920.1040@0.0.1920.1040" timestamp="1611501222186" />
+    <state x="557" y="151" key="#by.it.academy.loader_in_M3T1" timestamp="1611498842028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="151" key="#by.it.academy.loader_in_M3T1/0.0.1920.1040@0.0.1920.1040" timestamp="1611498842028" />
+    <state x="557" y="151" key="#by.it.academy.pojos_in_M3T1" timestamp="1611498726096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="151" key="#by.it.academy.pojos_in_M3T1/0.0.1920.1040@0.0.1920.1040" timestamp="1611498726096" />
+    <state x="557" y="151" key="#by.it.academy_in_M3T1" timestamp="1611498626883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="151" key="#by.it.academy_in_M3T1/0.0.1920.1040@0.0.1920.1040" timestamp="1611498626883" />
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1612118762565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612118762565" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1612301726895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612301726895" />
+    <state x="690" y="288" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1611501315990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="288" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611501315990" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1612130289268">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612130289268" />
+    <state width="1877" height="329" key="GridCell.Tab.0.bottom" timestamp="1612303049001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612303049001" />
+    <state width="1877" height="329" key="GridCell.Tab.0.center" timestamp="1612303049000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612303049000" />
+    <state width="1877" height="329" key="GridCell.Tab.0.left" timestamp="1612303049000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612303049000" />
+    <state width="1877" height="329" key="GridCell.Tab.0.right" timestamp="1612303049001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612303049001" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1611687706080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611687706080" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1611687706080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611687706080" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1611687706080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611687706080" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1611687706080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611687706080" />
+    <state x="461" y="240" key="SettingsEditor" timestamp="1611503383461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="240" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611503383461" />
+    <state x="656" y="422" key="com.intellij.ide.util.TipDialog" timestamp="1612129124190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="422" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612129124190" />
+    <state x="613" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1612012584344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="613" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612012584344" />
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1611681711228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611681711228" />
+    <state x="342" y="215" key="new project wizard" timestamp="1611496369455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1611496369455" />
+    <state x="702" y="148" key="refactoring.ChangeSignatureDialog" timestamp="1611520912113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="148" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611520912113" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611572249383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611572249383" />
+  </component>
+</project>
