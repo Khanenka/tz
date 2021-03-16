@@ -1,9 +1,0 @@
-Name:JSESSIONID count=0;
-new cookie1
-Name:user count=2;
-new cookie3
-Name:session_id count=4;
-Name:cookieName count=5;
-new cookie6
-Name:Idea-b71e2cd count=7;
-new cookie8
